@@ -1,0 +1,5 @@
+{
+  "name": "KV Daily Expenditure",
+  "description": "A minimal full-screen wrapper for the KV Daily Expenditure application.",
+  "requestFramePermissions": []
+}
